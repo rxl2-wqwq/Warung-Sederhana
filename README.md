@@ -1,2 +1,27 @@
-Warung Nasi Goreng Kustom
+# Warung Nasi Goreng Kustom
+
+Selamat datang di proyek **Warung Nasi Goreng Kustom**!  
+Program ini mensimulasikan pemesanan nasi goreng dengan topping pilihan dan level kepedasan sesuai selera pelanggan.
+
+---
+
+## Deskripsi
+
+Program ini memungkinkan pengguna untuk:
+- Memilih topping nasi goreng dari daftar yang tersedia.
+- Menentukan level kepedasan (Tidak Pedas, Sedang, Pedas).
+- Menghitung total harga pesanan, termasuk topping.
+- Mendapatkan diskon 10% jika pelanggan merupakan member.
+
+Program ditulis dalam **Java** dan menggunakan konsep:
+- **Class & Object**
+- **Array & ArrayList**
+- **Looping (for, do-while)**
+- **Kondisional (if-else, switch-case)**
+- **Method dengan parameter & return value**
+- **Variabel static, instance, dan lokal**
+
+---
+
+## Struktur Folder
 
