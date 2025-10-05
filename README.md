@@ -54,4 +54,5 @@ Berikut adalah contoh interaksi saat program dijalankan:
 
 <img width="372" height="125" alt="Screenshot 2025-10-05 083112" src="https://github.com/user-attachments/assets/2a570c60-c146-4a1f-9a1f-5543e427818d" />
 
+---
 
