@@ -36,3 +36,6 @@ Program ditulis dalam **Java** dan menggunakan konsep:
 - **Struk Digital**: Rincian pesanan ditampilkan dengan jelas di akhir sesi.
 
 ---
+
+## **Contoh Sesi Program**
+Berikut adalah contoh interaksi saat program dijalankan:
