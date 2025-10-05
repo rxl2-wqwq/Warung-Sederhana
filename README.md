@@ -45,11 +45,21 @@ Berikut adalah contoh interaksi saat program dijalankan:
 <h4>Menu Utama</h4>
 <img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/f65dbff5-895c-4f41-b012-df6883522f70" />
 
-<h4>Meimilih Topping</h4>
+<h4>Meracik Topping</h4>
 <img width="299" height="207" alt="image" src="https://github.com/user-attachments/assets/dc1cb0ce-eef5-4fcf-b442-4c155625ac97" />
 
-<h4></h4>
+<h4>Selesai Memilih Toppping</h4>
 <img width="298" height="187" alt="image" src="https://github.com/user-attachments/assets/8f0d6fb7-725c-4917-9a89-d32f3ac4c472" />
+
+<h4>Memilih Tingkat Kepedasan</h4>
+<img width="272" height="123" alt="image" src="https://github.com/user-attachments/assets/3ff3f2c3-d86a-4a98-b033-16c3bb2bf9b7" />
+
+<h4>Detail Pwsanan</h4>
+<img width="339" height="204" alt="image" src="https://github.com/user-attachments/assets/a4e21809-7abd-4264-a274-7a5cb93e8c68" />
+
+<h4>Apakah Member?</h4><img width="372" height="125" alt="image" src="https://github.com/user-attachments/assets/a28be398-6328-4ec5-a8b7-5560536a98ec" />
+
+
 
 
 ---
