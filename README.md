@@ -45,6 +45,13 @@ Berikut adalah contoh interaksi saat program dijalankan:
 <h4>Menu Utama</h4>
 <img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/f65dbff5-895c-4f41-b012-df6883522f70" />
 
+<h4>Meimilih Topping</h4>
+<img width="299" height="207" alt="image" src="https://github.com/user-attachments/assets/dc1cb0ce-eef5-4fcf-b442-4c155625ac97" />
+
+<h4></h4>
+<img width="298" height="187" alt="image" src="https://github.com/user-attachments/assets/8f0d6fb7-725c-4917-9a89-d32f3ac4c472" />
+
+
 ---
 
 
