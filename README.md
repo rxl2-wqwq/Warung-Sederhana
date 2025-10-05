@@ -43,7 +43,7 @@ Berikut adalah contoh interaksi saat program dijalankan:
 ---
 
 <h4>Menu Utama</h4>
-(<img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/f65dbff5-895c-4f41-b012-df6883522f70" />)
+<img width="416" height="246" alt="image" src="https://github.com/user-attachments/assets/f65dbff5-895c-4f41-b012-df6883522f70" />
 
 ---
 
