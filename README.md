@@ -40,8 +40,8 @@ Program ditulis dalam **Java** dan menggunakan konsep:
 ## **Contoh Sesi Program**
 Berikut adalah contoh interaksi saat program dijalankan:
 
-```
+---
 
 <img width="416" height="246" alt="Screenshot 2025-10-05 083023" src="https://github.com/user-attachments/assets/322b35f3-9058-47e7-8b68-f2f827e3407c" />
 
-```
+
