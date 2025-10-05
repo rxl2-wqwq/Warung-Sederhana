@@ -26,3 +26,13 @@ Program ditulis dalam **Java** dan menggunakan konsep:
 ## Struktur Folder
 <img width="277" height="195" alt="image" src="https://github.com/user-attachments/assets/03c3c218-d905-4ad0-a683-88361bf8bfef" />
 
+---
+## **Fitur Utama**
+- **Pemesanan Kustom**: Mulai dengan nasi goreng polos dan tambahkan topping sesuai selera.
+- **Menu Topping**: Daftar topping yang mudah dikelola melalui Array.
+- **Level Pedas**: Tiga pilihan level pedas (Tidak Pedas, Sedang, Pedas).
+- **Kalkulasi Otomatis**: Total harga dihitung secara otomatis berdasarkan pesanan.
+- **Diskon Member**: Opsi diskon sebesar 10% untuk pelanggan terdaftar.
+- **Struk Digital**: Rincian pesanan ditampilkan dengan jelas di akhir sesi.
+
+---
