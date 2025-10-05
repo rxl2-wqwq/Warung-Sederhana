@@ -56,3 +56,60 @@ Berikut adalah contoh interaksi saat program dijalankan:
 
 ---
 
+
+```
+Selamat Datang di Warung Nasi Goreng Kustom!
+
+--- Pilih Pelengkap/Topping ---
+1. Telur Dadar     (Rp 4,000)
+2. Sosis            (Rp 5,000)
+3. Ayam Suwir       (Rp 6,000)
+4. Bakso            (Rp 5,000)
+5. Ati Ampela       (Rp 6,000)
+0. Selesai Memilih
+Masukkan pilihan: 1
+Telur Dadar ditambahkan.
+
+--- Pilih Pelengkap/Topping ---
+1. Telur Dadar     (Rp 4,000)
+2. Sosis            (Rp 5,000)
+3. Ayam Suwir       (Rp 6,000)
+4. Bakso            (Rp 5,000)
+5. Ati Ampela       (Rp 6,000)
+0. Selesai Memilih
+Masukkan pilihan: 3
+Ayam Suwir ditambahkan.
+
+--- Pilih Pelengkap/Topping ---
+1. Telur Dadar     (Rp 4,000)
+2. Sosis            (Rp 5,000)
+3. Ayam Suwir       (Rp 6,000)
+4. Bakso            (Rp 5,000)
+5. Ati Ampela       (Rp 6,000)
+0. Selesai Memilih
+Masukkan pilihan: 0
+
+--- Pilih Level Pedas ---
+0. Tidak Pedas
+1. Sedang
+2. Pedas
+Masukkan Pilihan (0/1/2): 2
+
+     Detail Pesanan Anda
+Nasi Goreng Polos     : Rp 15,000
+Level Pedas           : Pedas
+Pelengkap/Topping:
+- Telur Dadar          : Rp 4,000
+- Ayam Suwir           : Rp 6,000
+--------------------------------- +
+TOTAL                 : Rp 25,000
+
+Apakah member? (Y/T): Y
+Selamat! mendapatkan diskon member 10%.
+Potongan Harga        : Rp 2,500
+
+TOTAL BAYAR           : Rp 22,500
+
+Terima kasih selamat menikmati!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+```
+
