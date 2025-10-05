@@ -42,9 +42,9 @@ Berikut adalah contoh interaksi saat program dijalankan:
 
 ---
 
-<img width="416" height="246" alt="Screenshot 2025-10-05 083023" src="https://github.com/user-attachments/assets/322b35f3-9058-47e7-8b68-f2f827e3407c" />
+(<img width="416" height="246" alt="Screenshot 2025-10-05 083023" src="https://github.com/user-attachments/assets/322b35f3-9058-47e7-8b68-f2f827e3407c" />)
 
-<img width="299" height="207" alt="Screenshot 2025-10-05 083034" src="https://github.com/user-attachments/assets/c9b2b0f2-e23f-43f8-9e4e-bdb2ab68cd5a" />
+(<img width="299" height="207" alt="Screenshot 2025-10-05 083034" src="https://github.com/user-attachments/assets/c9b2b0f2-e23f-43f8-9e4e-bdb2ab68cd5a" />)
 
 <img width="298" height="187" alt="Screenshot 2025-10-05 083041" src="https://github.com/user-attachments/assets/0c924fa1-f555-4be2-b802-2b87c461e03c" />
 
@@ -57,59 +57,6 @@ Berikut adalah contoh interaksi saat program dijalankan:
 ---
 
 
-```
-Selamat Datang di Warung Nasi Goreng Kustom!
 
---- Pilih Pelengkap/Topping ---
-1. Telur Dadar     (Rp 4,000)
-2. Sosis            (Rp 5,000)
-3. Ayam Suwir       (Rp 6,000)
-4. Bakso            (Rp 5,000)
-5. Ati Ampela       (Rp 6,000)
-0. Selesai Memilih
-Masukkan pilihan: 1
-Telur Dadar ditambahkan.
 
---- Pilih Pelengkap/Topping ---
-1. Telur Dadar     (Rp 4,000)
-2. Sosis            (Rp 5,000)
-3. Ayam Suwir       (Rp 6,000)
-4. Bakso            (Rp 5,000)
-5. Ati Ampela       (Rp 6,000)
-0. Selesai Memilih
-Masukkan pilihan: 3
-Ayam Suwir ditambahkan.
-
---- Pilih Pelengkap/Topping ---
-1. Telur Dadar     (Rp 4,000)
-2. Sosis            (Rp 5,000)
-3. Ayam Suwir       (Rp 6,000)
-4. Bakso            (Rp 5,000)
-5. Ati Ampela       (Rp 6,000)
-0. Selesai Memilih
-Masukkan pilihan: 0
-
---- Pilih Level Pedas ---
-0. Tidak Pedas
-1. Sedang
-2. Pedas
-Masukkan Pilihan (0/1/2): 2
-
-     Detail Pesanan Anda
-Nasi Goreng Polos     : Rp 15,000
-Level Pedas           : Pedas
-Pelengkap/Topping:
-- Telur Dadar          : Rp 4,000
-- Ayam Suwir           : Rp 6,000
---------------------------------- +
-TOTAL                 : Rp 25,000
-
-Apakah member? (Y/T): Y
-Selamat! mendapatkan diskon member 10%.
-Potongan Harga        : Rp 2,500
-
-TOTAL BAYAR           : Rp 22,500
-
-Terima kasih selamat menikmati!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-```
 
