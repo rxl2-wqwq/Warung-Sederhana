@@ -43,5 +43,10 @@ Berikut adalah contoh interaksi saat program dijalankan:
 ---
 
 <img width="416" height="246" alt="Screenshot 2025-10-05 083023" src="https://github.com/user-attachments/assets/322b35f3-9058-47e7-8b68-f2f827e3407c" />
+<img width="299" height="207" alt="Screenshot 2025-10-05 083034" src="https://github.com/user-attachments/assets/c9b2b0f2-e23f-43f8-9e4e-bdb2ab68cd5a" />
+<img width="298" height="187" alt="Screenshot 2025-10-05 083041" src="https://github.com/user-attachments/assets/0c924fa1-f555-4be2-b802-2b87c461e03c" />
+<img width="272" height="123" alt="Screenshot 2025-10-05 083047" src="https://github.com/user-attachments/assets/6ee458ca-f5f3-4781-a0be-e7b87adfdda1" />
+<img width="339" height="204" alt="Screenshot 2025-10-05 083103" src="https://github.com/user-attachments/assets/2cec0f01-63dd-4067-913f-6f768e433720" />
+<img width="372" height="125" alt="Screenshot 2025-10-05 083112" src="https://github.com/user-attachments/assets/2a570c60-c146-4a1f-9a1f-5543e427818d" />
 
 
