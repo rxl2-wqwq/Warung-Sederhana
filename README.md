@@ -24,4 +24,5 @@ Program ditulis dalam **Java** dan menggunakan konsep:
 ---
 
 ## Struktur Folder
+<img width="277" height="195" alt="image" src="https://github.com/user-attachments/assets/03c3c218-d905-4ad0-a683-88361bf8bfef" />
 
